@@ -1,0 +1,7 @@
+/*
+stylings applied to all components, no need to individually change every component
+*/
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
